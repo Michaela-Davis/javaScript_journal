@@ -1,0 +1,23 @@
+{
+  "name": "journal",
+  "description": "a journal",
+  "main": "index.js",
+  "authors": [
+    "Michaela Davis & Charles Peden"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "secrets"
+  ],
+  "homepage": "https://github.com/Michaela-Davis/javaScript_journal",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
